@@ -1,4 +1,4 @@
-baseURL = "rikimachine99.github.io"
+baseURL = "https://rikimachine99.github.io"
 languageCode = "en-us"
 title = "Riccardo Marinelli"
 theme = "dimension-hugo-theme"
