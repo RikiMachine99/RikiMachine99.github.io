@@ -1,5 +1,5 @@
 baseURL = "https://rikimachine99.github.io"
 languageCode = "en-us"
 title = "Riccardo Marinelli"
-theme = "ga"
+theme = "dim"
 publishDir = "docs"
