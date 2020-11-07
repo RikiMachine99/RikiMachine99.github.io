@@ -1,7 +1,7 @@
 ---
 title: "About me"
 date: 2020-11-06T23:48:37+01:00
-draft: true
+draft: false
 ---
 
 # It's me: Riccardo Marinelli
