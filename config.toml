@@ -3,8 +3,3 @@ languageCode = "en-us"
 title = "Riccardo Marinelli"
 theme = "dim"
 publishDir = "docs"
-
-[taxonomies]
-    tag = "tag"
-    category = "categories"
-    mood = "moods" 
