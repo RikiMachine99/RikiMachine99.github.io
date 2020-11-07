@@ -6,3 +6,5 @@ theme = "dimension-hugo-theme"
     tag = "tag"
     category = "categories"
     mood = "moods" 
+
+publishdir = "docs"
