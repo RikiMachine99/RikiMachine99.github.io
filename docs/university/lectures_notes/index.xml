@@ -8,13 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Nov 2020 00:23:28 +0100</lastBuildDate><atom:link href="https://rikimachine99.github.io/university/lectures_notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>RQM</title>
+      <title>RQM lectures</title>
       <link>https://rikimachine99.github.io/university/lectures_notes/rqm/</link>
       <pubDate>Sat, 07 Nov 2020 00:23:28 +0100</pubDate>
       
       <guid>https://rikimachine99.github.io/university/lectures_notes/rqm/</guid>
-      <description>Relativistic quantum mechanics Informazioni sul corso Il corso di meccanica quantistica relativistica è stato tenuto dal professor Roberto Bonciani, gli appunti si riferiscono al corso tenuto nell&amp;rsquo;anno accademico 2020/2021, si riportano gli appunti suddivisi in settimane.
-Elenco degli appunti  Settimana 1 RQM Settimana 2 RQM      </description>
+      <description>Relativistic quantum mechanics Informations about the course the course on Relativistic Quantum Mechanic was held by professor Roberto Bonciani1 at Sapienza University, the notes have been taken during the firt semester of academic year 2020/2021.
+Scheme of the notes For now I will put the notes divided by week, in the future i will list notes based on arguments.
+Elenco degli appunti  Week 1 RQM Introduction: Schrodinger Equation, Klein-Gordon Equation Special Relativity Vectors and tensors Dynamics of a classical free particle Lorentz transformations form a group Poincaré group  Week 2 RQM 3.</description>
     </item>
     
   </channel>

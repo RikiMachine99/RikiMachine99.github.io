@@ -1,5 +1,5 @@
 ---
-title: "RQM"
+title: "RQM lectures"
 date: 2020-11-07T00:23:28+01:00
 draft: true
 ---
@@ -7,15 +7,30 @@ draft: true
 
 # Relativistic quantum mechanics
 
-## Informazioni sul corso
-Il corso di meccanica quantistica relativistica è stato tenuto dal professor **Roberto Bonciani**, gli appunti si riferiscono al corso tenuto nell'anno accademico 2020/2021, si riportano gli appunti suddivisi in settimane.
+## Informations about the course
+
+the course on Relativistic Quantum Mechanic was held by professor Roberto Bonciani[^1] at **Sapienza University**, the notes have been taken during the firt semester of academic year 2020/2021.
+
+## Scheme of the notes
+
+For now I will put the notes divided by week, in the future i will list notes based on arguments.
+
 
 ## Elenco degli appunti
 
-1. [Settimana 1 RQM](/RQM01.pdf)
-2. [Settimana 2 RQM](/RQM02.pdf)
-3. 
+[Week 1 RQM](/RQM_lectures/RQM01.pdf)
+:   Introduction: Schrodinger Equation, Klein-Gordon Equation
+:   Special Relativity
+:   Vectors and tensors
+:   Dynamics of a classical free particle
+:   Lorentz transformations form a group
+:   Poincaré group
+
+    
+[Week 2 RQM](/RQM_lectures/RQM02.pdf)
+3. [Week 3 RQM](/RQM_lectures/RQM03.pdf)
 4. 
 5. 
 6. 
 
+[^1]: [Roberto Bonciani Website](http://www.roma1.infn.it/~boncianr/index.html)
