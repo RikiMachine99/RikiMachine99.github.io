@@ -27,9 +27,13 @@ For now I will put the notes divided by week, in the future i will list notes ba
 :   Poincaré group
 
 [Week 2](/RQM_lectures/RQM02.pdf)
+
 [Week 3](/RQM_lectures/RQM03.pdf)
-[Week 4](/)
-[Week 5](/)
-[Week 6](/)
+
+[Week 4] (WIP)
+
+[Week 5] (WIP)
+
+[Week 6] (WIP)
 
 [^1]: [Roberto Bonciani Website](http://www.roma1.infn.it/~boncianr/index.html)
