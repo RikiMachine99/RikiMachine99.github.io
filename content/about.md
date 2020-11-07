@@ -21,6 +21,7 @@ Currently I'm a master-degree student at the same university, I'm attending cour
 ## Interests
 
 * Regarding my Physics studies, I'm interested in Theroretical Phisics for **particles** [^1].
+* I like to write documents in Latex, I aim one day to write some notes useful for high school and university. Also, I hope to write some booklets for liturgical usage.
 * As i said, I'm a proud catholic, i'm interested in all themes regarding hystory of the Church, lifes of saints, catholic art and christian liturgy.
 * Since I was a child I loved Disney characters and I've read for 14 years the italian comic **Topolino** [^2].
 
