@@ -12,7 +12,7 @@ Il corso di meccanica quantistica relativistica è stato tenuto dal professor **
 
 ## Elenco degli appunti
 
-1. [Settimana 1 RQM](/RQM.pdf)
+1. [Settimana 1 RQM](/RQM01.pdf)
 2. 
 3. 
 4. 
