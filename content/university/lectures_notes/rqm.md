@@ -25,6 +25,7 @@ For now I will put the notes divided by week, in the future i will list notes ba
 :   Dynamics of a classical free particle
 :   Lorentz transformations form a group
 :   Poincaré group
+
 [Week 2](/RQM_lectures/RQM02.pdf)
 [Week 3](/RQM_lectures/RQM03.pdf)
 [Week 4](/)
