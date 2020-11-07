@@ -25,6 +25,14 @@ Currently I'm a master-degree student at the same university, I'm attending cour
 * As i said, I'm a proud catholic, i'm interested in all themes regarding hystory of the Church, lifes of saints, catholic art and christian liturgy.
 * Since I was a child I loved Disney characters and I've read for 14 years the italian comic **Topolino** [^2].
 
+##
+
+Contacts:
+* My email -- riccardomarinelli1999@gmail.com
+* My GitHub -- [GitHub](https://github.com/RikiMachine99)
+* My Intagram Account -- [Instagram](https://www.instagram.com/pathos_b/)
+* My Facebook account -- [Facebook](https://www.facebook.com/riccardo.marinelli.1)
+
 
 [^1]: For example, physics beyond standard model.
 [^2]: [Topolino website](https://www.topolino.it)

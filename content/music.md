@@ -6,5 +6,4 @@ draft: true
 
 Here I will list some interesting music that comes to my mind: 
 
-* Traditional "pastorali" of Taranto (christmas compositions of the sheperds):
-{{< audio src="/Pastorali_tarantine.mp3">}}
+* Traditional "pastorali" of Taranto
