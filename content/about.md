@@ -35,5 +35,5 @@ Currently I'm a master-degree student at the same university, I'm attending cour
 * 
 
 
-[^1] For example, physics beyond standard model.
+[^1]: For example, physics beyond standard model.
 
