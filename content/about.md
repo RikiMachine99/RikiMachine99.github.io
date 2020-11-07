@@ -23,6 +23,16 @@ Currently I'm a master-degree student at the same university, I'm attending cour
 * Regarding my Physics studies, I'm interested in Theroretical Phisics for **particles** [^1].
 * As i said, I'm a proud catholic, i'm interested in all themes regarding hystory of the Church, lifes of saints, catholic art and christian liturgy.
 * Since I was a child I loved Disney characters and I've read for 11 years the italian comic **Topolino**.
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 
 [^1] For example, physics beyond standard model.
