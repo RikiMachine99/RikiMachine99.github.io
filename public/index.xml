@@ -62,14 +62,5 @@ Elenco degli appunti  Settimana 1 RQM  </description>
       <description>I&amp;rsquo;m Riccardo Marinelli, I&amp;rsquo;m a bachelor-graduate in Physics at &amp;ldquo;La Sapienza&amp;rdquo; University in Rome and currently I&amp;rsquo;m a master-degree student at the same university.</description>
     </item>
     
-    <item>
-      <title>Canto bizzy</title>
-      <link>http://example.org/cantobizzy/</link>
-      <pubDate>Fri, 06 Nov 2020 22:44:39 +0100</pubDate>
-      
-      <guid>http://example.org/cantobizzy/</guid>
-      <description>Mira il tuo popolo unico amore</description>
-    </item>
-    
   </channel>
 </rss>
