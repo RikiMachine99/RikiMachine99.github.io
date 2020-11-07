@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Riccardo Marinelli"
+theme = "dimension-hugo-theme"
+[taxonomies]
+    tag = "tag"
+    category = "categories"
+    mood = "moods" 
