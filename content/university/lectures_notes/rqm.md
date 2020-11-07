@@ -16,7 +16,7 @@ the course on Relativistic Quantum Mechanic was held by professor Roberto Boncia
 For now I will put the notes divided by week, in the future i will list notes based on arguments.
 
 
-## List and argiments of the notes
+## List and arguments of the notes
 
 1. [Week 1](/RQM_lectures/RQM01.pdf)
 :   Introduction: Schrodinger Equation, Klein-Gordon Equation
@@ -25,8 +25,6 @@ For now I will put the notes divided by week, in the future i will list notes ba
 :   Dynamics of a classical free particle
 :   Lorentz transformations form a group
 :   Poincaré group
-
-    
 2. [Week 2](/RQM_lectures/RQM02.pdf)
 3. [Week 3](/RQM_lectures/RQM03.pdf)
 4. 
