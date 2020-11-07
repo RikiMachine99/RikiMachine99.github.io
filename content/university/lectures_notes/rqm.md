@@ -18,8 +18,7 @@ For now I will put the notes divided by week, in the future i will list notes ba
 
 ## List and arguments of the notes
 
-[Week 1](/RQM_lectures/RQM01.pdf)
-Arguments:
+[Week 1](/RQM_lectures/RQM01.pdf), arguments:
 :   Introduction: Schrodinger Equation, Klein-Gordon Equation
 :   Special Relativity
 :   Vectors and tensors
@@ -28,23 +27,20 @@ Arguments:
 :   Poincaré group
 :   Lagrangian description of the mechanics
 
-[Week 2](/RQM_lectures/RQM02.pdf)
-Arguments:
+[Week 2](/RQM_lectures/RQM02.pdf), arguments:
 :   Nöther's theorem
 :   Invariance under Lorentz transformations
 :   Scalar field and 4-momentum and angular momentum conservation
 :   Lorentz and Poincaré symmetries in Quantum Field Theory
 
-[Week 3](/RQM_lectures/RQM03.pdf)
-Arguments:
+[Week 3](/RQM_lectures/RQM03.pdf), arguments:
 :   Natural Units
 :   Klein-Gordon equation
 :   Dirac Equation
 
-[Week 4] (WIP)
-Arguments:
+[Week 4] (WIP), arguments:
 :   Dirac Equation
-:   Quantization of Dirac equation
+:   Quantization of Dirac equatio
 
 [Week 5] (WIP)
 
