@@ -2,28 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Riccardo Marinelli</title>
-    <link>http://example.org/categories/</link>
+    <link>rikimachine99.github.io/categories/</link>
     <description>Recent content in Categories on Riccardo Marinelli</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2020 01:05:30 +0100</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>cat1</title>
-      <link>http://example.org/categories/cat1/</link>
-      <pubDate>Sat, 07 Nov 2020 01:05:30 +0100</pubDate>
-      
-      <guid>http://example.org/categories/cat1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cat2</title>
-      <link>http://example.org/categories/cat2/</link>
-      <pubDate>Sat, 07 Nov 2020 01:03:36 +0100</pubDate>
-      
-      <guid>http://example.org/categories/cat2/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="rikimachine99.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

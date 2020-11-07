@@ -2,29 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Appunti on Riccardo Marinelli</title>
-    <link>http://example.org/appunti/</link>
+    <link>rikimachine99.github.io/appunti/</link>
     <description>Recent content in Appunti on Riccardo Marinelli</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2020 00:39:50 +0100</lastBuildDate><atom:link href="http://example.org/appunti/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Doc2</title>
-      <link>http://example.org/appunti/doc2/</link>
-      <pubDate>Sat, 07 Nov 2020 00:39:50 +0100</pubDate>
-      
-      <guid>http://example.org/appunti/doc2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RQM</title>
-      <link>http://example.org/appunti/rqm/</link>
-      <pubDate>Sat, 07 Nov 2020 00:23:28 +0100</pubDate>
-      
-      <guid>http://example.org/appunti/rqm/</guid>
-      <description>Relativistic quantum mechanics Informazioni sul corso Il corso di meccanica quantistica relativistica è stato tenuto dal professor Roberto Bonciani, gli appunti si riferiscono al corso tenuto nell&amp;rsquo;anno accademico 2020/2021, si riportano gli appunti suddivisi in settimane.
-Elenco degli appunti  Settimana 1 RQM  </description>
-    </item>
-    
+    <language>en-us</language><atom:link href="rikimachine99.github.io/appunti/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

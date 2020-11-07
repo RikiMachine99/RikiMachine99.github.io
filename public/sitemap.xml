@@ -3,77 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/a/</loc>
-    <lastmod>2020-11-07T01:05:30+01:00</lastmod>
+    <loc>rikimachine99.github.io/appunti/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/cat1/</loc>
-    <lastmod>2020-11-07T01:05:30+01:00</lastmod>
+    <loc>rikimachine99.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
-    <lastmod>2020-11-07T01:05:30+01:00</lastmod>
+    <loc>rikimachine99.github.io/moods/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/moods/happy/</loc>
-    <lastmod>2020-11-07T01:05:30+01:00</lastmod>
+    <loc>rikimachine99.github.io/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/moods/</loc>
-    <lastmod>2020-11-07T01:05:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-11-07T01:05:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/moods/upbeat/</loc>
-    <lastmod>2020-11-07T01:05:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/c/</loc>
-    <lastmod>2020-11-07T01:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/cat2/</loc>
-    <lastmod>2020-11-07T01:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/b/</loc>
-    <lastmod>2020-11-07T01:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/appunti/</loc>
-    <lastmod>2020-11-07T00:39:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/appunti/doc2/</loc>
-    <lastmod>2020-11-07T00:39:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/appunti/rqm/</loc>
-    <lastmod>2020-11-07T00:23:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/about/</loc>
-    <lastmod>2020-11-06T23:48:37+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tag/</loc>
+    <loc>rikimachine99.github.io/tag/</loc>
   </url>
   
 </urlset>
