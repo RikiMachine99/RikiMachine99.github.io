@@ -6,4 +6,4 @@ draft: true
 
 Here I will list some interesting music that comes to my mind: 
 
-* Traditional "pastorali" of Taranto
+* Traditional "pastorali" of Taranto: [Pastorali Tarantine](/Pastorali_trantine.mp3)
