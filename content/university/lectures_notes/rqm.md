@@ -18,11 +18,4 @@ Il corso di meccanica quantistica relativistica è stato tenuto dal professor **
 4. 
 5. 
 6. 
-7. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
 
