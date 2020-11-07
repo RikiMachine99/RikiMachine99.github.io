@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Happy on Riccardo Marinelli</title>
-    <link>http://example.org/moods/happy/</link>
+    <link>rikimachine99.github.io/moods/happy/</link>
     <description>Recent content in Happy on Riccardo Marinelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2020 01:05:30 +0100</lastBuildDate><atom:link href="http://example.org/moods/happy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Nov 2020 01:05:30 +0100</lastBuildDate><atom:link href="rikimachine99.github.io/moods/happy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A</title>
-      <link>http://example.org/a/</link>
+      <link>rikimachine99.github.io/a/</link>
       <pubDate>Sat, 07 Nov 2020 01:05:30 +0100</pubDate>
       
-      <guid>http://example.org/a/</guid>
+      <guid>rikimachine99.github.io/a/</guid>
       <description>This is a markdown file</description>
     </item>
     

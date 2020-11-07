@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cat2 on Riccardo Marinelli</title>
-    <link>http://example.org/categories/cat2/</link>
+    <link>rikimachine99.github.io/categories/cat2/</link>
     <description>Recent content in cat2 on Riccardo Marinelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2020 01:03:36 +0100</lastBuildDate><atom:link href="http://example.org/categories/cat2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Nov 2020 01:03:36 +0100</lastBuildDate><atom:link href="rikimachine99.github.io/categories/cat2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C</title>
-      <link>http://example.org/c/</link>
+      <link>rikimachine99.github.io/c/</link>
       <pubDate>Sat, 07 Nov 2020 01:03:36 +0100</pubDate>
       
-      <guid>http://example.org/c/</guid>
+      <guid>rikimachine99.github.io/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B</title>
-      <link>http://example.org/b/</link>
+      <link>rikimachine99.github.io/b/</link>
       <pubDate>Sat, 07 Nov 2020 01:03:33 +0100</pubDate>
       
-      <guid>http://example.org/b/</guid>
+      <guid>rikimachine99.github.io/b/</guid>
       <description></description>
     </item>
     
