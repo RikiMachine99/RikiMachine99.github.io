@@ -44,7 +44,7 @@ For now I will put the notes divided by week, in the future i will list notes ba
 
 
 
-4. [Week 4] (WIP):
+4. [Week 4](/RQM_lectures/RQM04.pdf):
     - Dirac Equation
     - Quantization of Dirac equation
 
