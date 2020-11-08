@@ -1,7 +1,7 @@
 ---
 title: "RQM lectures"
 date: 2020-11-07T00:23:28+01:00
-draft: true
+draft: false
 ---
 
 
@@ -13,7 +13,7 @@ the course on Relativistic Quantum Mechanic was held by professor Roberto Boncia
 
 ## Characteristics of the notes
 
-- I took the notes using _Notabilty_ on Ipad pro.
+- I took the notes using _Notabilty_ on **Ipad pro**.
 - The notes are hand taken, I hope I'll will be able to convert then in LaTeX one day.
 - For now I will put the notes divided by week, in the future i will list notes based on arguments.
 

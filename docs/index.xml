@@ -6,7 +6,16 @@
     <description>Recent content on Riccardo Marinelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2020 10:01:03 +0100</lastBuildDate><atom:link href="https://rikimachine99.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Nov 2020 00:40:28 +0100</lastBuildDate><atom:link href="https://rikimachine99.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Love</title>
+      <link>https://rikimachine99.github.io/personal/poetry/love/</link>
+      <pubDate>Mon, 09 Nov 2020 00:40:28 +0100</pubDate>
+      
+      <guid>https://rikimachine99.github.io/personal/poetry/love/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Thesis projects</title>
       <link>https://rikimachine99.github.io/university/thesis_projects/bachelor_thesis/</link>
@@ -19,10 +28,10 @@ The thesis is available at the following link: Riccardo Marinelli Thesis</descri
     
     <item>
       <title>Music</title>
-      <link>https://rikimachine99.github.io/music/</link>
+      <link>https://rikimachine99.github.io/personal/music/</link>
       <pubDate>Sat, 07 Nov 2020 16:14:50 +0100</pubDate>
       
-      <guid>https://rikimachine99.github.io/music/</guid>
+      <guid>https://rikimachine99.github.io/personal/music/</guid>
       <description>Here I will list some interesting music that comes to my mind:
  Traditional &amp;ldquo;pastorali&amp;rdquo; of Taranto: Pastorali Tarantine  </description>
     </item>
