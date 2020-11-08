@@ -11,9 +11,11 @@ draft: true
 
 the course on Relativistic Quantum Mechanic was held by professor Roberto Bonciani[^1] at **Sapienza University**, the notes have been taken during the firt semester of academic year 2020/2021.
 
-## Scheme of the notes
+## Characteristics of the notes
 
-For now I will put the notes divided by week, in the future i will list notes based on arguments.
+- I took the notes using _Notabilty_ on Ipad pro.
+- The notes are hand taken, I hope I'll will be able to convert then in LaTeX one day.
+- For now I will put the notes divided by week, in the future i will list notes based on arguments.
 
 
 ## Lectures
