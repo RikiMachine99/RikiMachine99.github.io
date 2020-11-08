@@ -1,5 +1,5 @@
 ---
-title: "Bachelor thesis project"
+title: "Thesis projects"
 date: 2020-11-08T10:01:03+01:00
 draft: true
 ---

@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Nov 2020 10:01:03 +0100</lastBuildDate><atom:link href="https://rikimachine99.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bachelor thesis project</title>
-      <link>https://rikimachine99.github.io/university/bachelor_thesis_project/bachelor_thesis/</link>
+      <title>Thesis projects</title>
+      <link>https://rikimachine99.github.io/university/thesis_projects/bachelor_thesis/</link>
       <pubDate>Sun, 08 Nov 2020 10:01:03 +0100</pubDate>
       
-      <guid>https://rikimachine99.github.io/university/bachelor_thesis_project/bachelor_thesis/</guid>
+      <guid>https://rikimachine99.github.io/university/thesis_projects/bachelor_thesis/</guid>
       <description>My bachelor thesis project Title: Autovalori e stati legati dell’Hamiltoniana in presenza del potenziale di Yukawa The thesis project was written in Italian, in it I looked for eigenvalues and eigenstates of the Hamiltonian of a system with Yukawa potential, enhancing the removal of Coulomb degeneracy of states with same quantum number $n$.
 The thesis is available at the following link: Riccardo Marinelli Thesis</description>
     </item>
