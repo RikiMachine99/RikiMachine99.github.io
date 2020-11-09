@@ -1,5 +1,5 @@
 ---
-title: "Bachelor courses notes"
+title: "Bachelor courses"
 background: "/images/bg.jpg"
 logo: "gem"
 ---

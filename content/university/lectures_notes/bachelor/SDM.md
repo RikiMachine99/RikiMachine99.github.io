@@ -29,7 +29,7 @@ draft: false
 - In the future i will list notes based on smaller arguments.
 
 
-## Lectures
+## Arguments
 
 1. [Atomic Physics](/SDM_lectures/Atomica.pdf):
 2. [Molecular physics](/SDM_lectures/molecolare.pdf)
