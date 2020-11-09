@@ -9,7 +9,9 @@ draft: false
 
 ## Info about the course
 
-the course on Relativistic Quantum Mechanic was held by professor Roberto Bonciani[^1] at **Sapienza University**, the notes have been taken during the firt semester of academic year 2020/2021.
+* Language : italian
+
+* The course on Relativistic Quantum Mechanic was held by professor Roberto Bonciani[^1] at **Sapienza University**, the notes have been taken during the firt semester of academic year 2020/2021.
 
 ## Characteristics of the notes
 
