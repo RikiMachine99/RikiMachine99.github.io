@@ -22,10 +22,10 @@ draft: false
 ## Characteristics of the notes
 
 - I took raw notes using **Ipad pro**, then they were fixed and written on paper 
-- The notes divided in 3 macro arguments: 
-    * Atomic Physiscs
-    * Molecular Physics
-    * Solid state Physics
+- The notes are divided by 3 macro arguments: 
+    1. Atomic Physiscs
+    1. Molecular Physics
+    1. Solid state Physics
 - In the future i will list notes based on smaller arguments.
 
 
