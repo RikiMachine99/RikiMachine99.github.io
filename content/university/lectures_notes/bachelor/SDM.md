@@ -17,7 +17,7 @@ draft: false
 
 * Period: second semester of academic year 2019/2020
 
-* The course "Struttura della Materia" (Matter Structure) was held by professor Giovanni Battista Bachelet [] at **Sapienza University**, the notes have been taken during the second semester of academic year 2019/2020.
+* The course "Struttura della Materia" (Matter Structure) was held by professor Giovanni Battista Bachelet [^1] at **Sapienza University**, the notes have been taken during the second semester of academic year 2019/2020.
 
 ## Characteristics of the notes
 
@@ -35,4 +35,4 @@ draft: false
 2. [Molecular physics](/SDM_lectures/molecolare.pdf)
 3. [Solid state Physics](/SDM_lectures/solidi.pdf):
 
-[]: []()
+[^1]: [Giovanni Bachelet website](http://www.giovannibachelet.it)
