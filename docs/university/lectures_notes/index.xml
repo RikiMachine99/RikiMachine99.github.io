@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lectures notes on Riccardo Marinelli</title>
+    <title>Bachelor courses notes on Riccardo Marinelli</title>
     <link>https://rikimachine99.github.io/university/lectures_notes/</link>
-    <description>Recent content in Lectures notes on Riccardo Marinelli</description>
+    <description>Recent content in Bachelor courses notes on Riccardo Marinelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Nov 2020 00:23:28 +0100</lastBuildDate><atom:link href="https://rikimachine99.github.io/university/lectures_notes/index.xml" rel="self" type="application/rss+xml" />
@@ -24,9 +24,12 @@
       <pubDate>Sat, 07 Nov 2020 00:23:28 +0100</pubDate>
       
       <guid>https://rikimachine99.github.io/university/lectures_notes/bachelor/sdm/</guid>
-      <description>Relativistic quantum mechanics Info about the course   Language : italian
+      <description>Struttura della Materia Info about the course   Language: italian
+  Professor: Giovanni Battista Bachelet
+  University: &amp;ldquo;La Sapienza&amp;rdquo;
+  Period: second semester of academic year 2019/2020
   The course &amp;ldquo;Struttura della Materia&amp;rdquo; (Matter Structure) was held by professor Giovanni Battista Bachelet [] at Sapienza University, the notes have been taken during the second semester of academic year 2019/2020.
-  Characteristics of the notes  I took raw notes using Ipad pro, then they were fixed on paper The notes divided in 3 macro arguments:  Atomic Physiscs Molecular Physics Solid state Physics   In the future i will list notes based on smaller arguments.</description>
+  Characteristics of the notes  I took raw notes using Ipad pro, then they were fixed and written on paper The notes divided in 3 macro arguments:  Atomic Physiscs Molecular Physics Solid state Physics   In the future i will list notes based on smaller arguments.</description>
     </item>
     
   </channel>
