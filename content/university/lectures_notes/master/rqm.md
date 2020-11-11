@@ -18,6 +18,7 @@ draft: false
 - I took the notes using _Notabilty_ on **Ipad pro**.
 - The notes are hand taken, I hope I'll will be able to convert then in LaTeX one day.
 - For now I will put the notes divided by week, in the future i will list notes based on arguments.
+- These notes are easily editable, if you spot some errors please let me know e-mailing me or via social networks, my contacts are in home/about. 
 
 
 ## Lectures
