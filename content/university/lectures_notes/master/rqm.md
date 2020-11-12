@@ -53,9 +53,12 @@ draft: false
     - Dirac Equation
     - Quantization of Dirac equation
 
+5. [Notes Week 5](/RQM_lectures/RQM05.pdf)
+    - Quantization of Dirac equation
+    - Electromagnetic field
+    - Free Field propagators
 
 
-[Notes Week 5] (WIP)
 
 
 
