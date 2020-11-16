@@ -1441,6 +1441,8 @@ body.is-preload #bg:before {
     border-radius: 4px;
 }
 
+/* Nuovo codice qua sotto (la roba con .vertical) */
+
 #header nav.vertical ul {
 	flex-direction: column;
 }
