@@ -6,5 +6,6 @@ draft: false
 
 Here I will post some love poems which I wrote and I'm confident to share, I hope you will enjoy it.
 
+1. [Rido](/lovepoems/Rido.pdf)
 1. [Sei luce](/lovepoems/Seiluce.pdf)
 1. [Cosa sia vero](/lovepoems/Cosasiavero.pdf)
