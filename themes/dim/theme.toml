@@ -12,5 +12,5 @@ min_version = 0.54
   homepage = "https://d-asnaghi.github.io"
 
 [original]
-    author = "HTML5UP"
-    homepage = "https://html5up.net"
+  author = "HTML5UP"
+  homepage = "https://html5up.net"
