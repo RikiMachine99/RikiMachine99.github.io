@@ -1455,7 +1455,6 @@ body.is-preload #bg:before {
     padding-left: 0;
 }
 
-
 #header nav:not(.vertical) ul li {
     padding-left: 0;
     border-left: solid 1px #ffffff;
@@ -1561,13 +1560,13 @@ body.is-preload #header .content .inner {
 }
 
 @media screen and (max-width: 480px) {
-    #header {
+    #wrapper #header {
         padding: 1.5rem 0;
     }
-    #header .content .inner {
+    #wrapper #header .content .inner {
         padding: 2.5rem 0;
     }
-    #header nav ul {
+    #wrapper #header nav ul {
         -moz-flex-direction: column;
         -webkit-flex-direction: column;
         -ms-flex-direction: column;
@@ -1575,20 +1574,20 @@ body.is-preload #header .content .inner {
         min-width: 10rem;
         max-width: 100%;
     }
-    #header nav ul li {
+    #wrapper #header nav ul li {
         border-left: 0;
         border-top: solid 1px #ffffff;
     }
-    #header nav ul li:first-child {
+    #wrapper #header nav ul li:first-child {
         border-top: 0;
     }
-    #header nav ul li a {
+    #wrapper #header nav ul li a {
         height: 3rem;
         line-height: 3rem;
         min-width: 0;
         width: 100%;
     }
-    #header nav.use-middle:after {
+    #wrapper #header nav.use-middle:after {
         display: none;
     }
 }
