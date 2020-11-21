@@ -63,7 +63,7 @@ draft: false
     - Electromagnetic interaction of fields
     - Time evolution of quantum systems
     - Application: QED, Feynman rules
-    - Calculation of the cross section for the scattering process e⁺+e⁻→μ⁺+μ⁻
+    - Calculation of the cross section for the scattering process $e^{+}+e^{-}\to\mu^{+}+\mu^{-}$
 
 
 [^1]: [Roberto Bonciani Website](http://www.roma1.infn.it/~boncianr/index.html)
