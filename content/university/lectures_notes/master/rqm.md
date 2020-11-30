@@ -23,7 +23,7 @@ draft: false
 
 ## Lectures
 
-1. [Notes Week 1](/RQM_lectures/RQM01.pdf):
+1. [Notes Week 1](https://drive.google.com/file/d/1jCNnM0Qa21dX_fN387spZ1MsK-r-S5Mf/view?usp=sharing):
     - Introduction: Schrodinger Equation, Klein-Gordon Equation
     - Special Relativity
     - Vectors and tensors
@@ -32,9 +32,7 @@ draft: false
     - Poincaré group
     - Lagrangian description of the mechanics
 
-
-
-2. [Notes Week 2](/RQM_lectures/RQM02.pdf):
+2. [Notes Week 2](https://drive.google.com/file/d/1jCNnM0Qa21dX_fN387spZ1MsK-r-S5Mf/view?usp=sharing):
     - Nöther's theorem
     - Invariance under Lorentz transformations
     - Scalar field and 4-momentum and angular momentum conservation
@@ -42,24 +40,24 @@ draft: false
 
 
 
-3. [Notes Week 3](/RQM_lectures/RQM03.pdf):
+3. [Notes Week 3](https://drive.google.com/file/d/1ZBUCvQVFTy80E7Eh11mkYTCOoMNoP8g2/view?usp=sharing):
     - Natural Units
     - Klein-Gordon equation
     - Dirac Equation
 
 
 
-4. [Notes Week 4](/RQM_lectures/RQM04.pdf):
+4. [Notes Week 4](https://drive.google.com/file/d/1vtyIue5RADGRXfvukmN6BeyE5D4ZMmgp/view?usp=sharing):
     - Dirac Equation
     - Quantization of Dirac equation
 
-5. [Notes Week 5](/RQM_lectures/RQM05.pdf)
+5. [Notes Week 5](https://drive.google.com/file/d/1N_FioQTsL846NO3y5ddV2M6LxSlXofBZ/view?usp=sharing)
     - Quantization of Dirac equation
     - Electromagnetic field
     - Free Field propagators
 
 
-6. [Notes Week 6](/RQM_lectures/RQM06.pdf)
+6. [Notes Week 6](https://drive.google.com/file/d/1rmj5J5r0Af96lj2X2XyF9ppq5TvlMa7_/view?usp=sharing)
     - Electromagnetic interaction of fields
     - Time evolution of quantum systems
     - Application: QED, Feynman rules
