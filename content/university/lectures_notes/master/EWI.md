@@ -25,7 +25,7 @@ draft: false
 
 1. [Notes Week 1](https://drive.google.com/file/d/1hcOSUcbt5h5Ckw_RHINuR536g-veK4Jl/view?usp=sharing):
 
-2. [Notes Week 2] (WIP):
+2. [Notes Week 2](https://drive.google.com/file/d/1FciF9ie3OQ6_r6LoCw1cFE0lCWeK-auh/view?usp=sharing):
 
 3. [Notes Week 3] (WIP):
 
