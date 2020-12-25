@@ -27,7 +27,7 @@ draft: false
 
 2. [Notes Week 2](https://drive.google.com/file/d/1FciF9ie3OQ6_r6LoCw1cFE0lCWeK-auh/view?usp=sharing):
 
-3. [Notes Week 3](https://elearning.uniroma1.it/pluginfile.php/739054/mod_resource/content/):
+3. [Notes Week 3](https://drive.google.com/file/d/1CbIh8vUE9Y5tX4PxVwmo_OxsJVUvi7E_/view?usp=sharing):
 
 4. [Notes Week 4] (WIP):
 
