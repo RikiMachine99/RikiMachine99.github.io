@@ -31,7 +31,7 @@ draft: false
 
 4. [Notes Week 4](https://drive.google.com/file/d/18gAHx9d4N-TurTv0byFlvPICCRYSqwcB/view?usp=sharing):
 
-5. [Notes Week 5] (WIP)
+5. [Notes Week 5](https://drive.google.com/file/d/1V5M2y0KU1278gICogtL2SPn_aYDHR_8b/view?usp=sharing)
 
 6. [Notes Week 6] (WIP)
 
