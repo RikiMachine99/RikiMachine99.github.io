@@ -33,6 +33,6 @@ draft: false
 
 5. [Notes Week 5](https://drive.google.com/file/d/1VdCSw2kTmT024pbg4D_45FNl3St5X54Q/view?usp=sharing):
 
-6. [Notes Week 6] (WIP)
+6. [Notes Week 6](https://drive.google.com/file/d/1z5gDJYxwo8TX1DbM-BQiMjvB4a0GQGPr/view?usp=sharing)
 
 [^1]: []()
