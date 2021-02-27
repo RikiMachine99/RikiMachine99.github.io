@@ -17,7 +17,7 @@ draft: false
 
 - I took the notes using _Notabilty_ on **Ipad pro**.
 - The notes are hand taken, I hope I'll will be able to convert them in LaTeX one day.
-- For now I will put the notes divided by week, in the future i will list notes based on arguments.
+- For now I will put the notes divided by week, in the future i will provide notes based on arguments.
 - These notes are easily editable, if you spot some errors please let me know e-mailing me or via social networks, my contacts are in home/about. 
 
 
@@ -33,6 +33,10 @@ draft: false
 
 5. [Notes Week 5](https://drive.google.com/file/d/1VdCSw2kTmT024pbg4D_45FNl3St5X54Q/view?usp=sharing):
 
-6. [Notes Week 6](https://drive.google.com/file/d/1z5gDJYxwo8TX1DbM-BQiMjvB4a0GQGPr/view?usp=sharing)
+6. [Notes Week 6](https://drive.google.com/file/d/1z5gDJYxwo8TX1DbM-BQiMjvB4a0GQGPr/view?usp=sharing):
+
+7. [Notes Week 7](https://drive.google.com/file/d/1bKoKvdf29003kEmmGM1XMh8CNNAxsmU3/view?usp=sharing):
+
+8. [Notes Weeks 8, 9]():
 
 [^1]: []()
