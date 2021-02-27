@@ -37,6 +37,6 @@ draft: false
 
 7. [Notes Week 7](https://drive.google.com/file/d/1bKoKvdf29003kEmmGM1XMh8CNNAxsmU3/view?usp=sharing):
 
-8. [Notes Weeks 8, 9]():
+8. [Notes Weeks 8, 9](WIP):
 
-[^1]: []()
+[^1]: [Guido Martinelli Website](https://www.roma1.infn.it/~marti/index.html)
