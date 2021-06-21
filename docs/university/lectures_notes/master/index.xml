@@ -6,7 +6,18 @@
     <description>Recent content in Master on Riccardo Marinelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2020 00:23:28 +0100</lastBuildDate><atom:link href="https://rikimachine99.github.io/university/lectures_notes/master/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Jun 2021 00:09:43 +0100</lastBuildDate><atom:link href="https://rikimachine99.github.io/university/lectures_notes/master/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QED</title>
+      <link>https://rikimachine99.github.io/university/lectures_notes/master/qed/</link>
+      <pubDate>Mon, 07 Jun 2021 00:09:43 +0100</pubDate>
+      
+      <guid>https://rikimachine99.github.io/university/lectures_notes/master/qed/</guid>
+      <description>Quantum Electrodynamics Info about the course   Language : English
+  The course on Relativistic Quantum Mechanic was held by professor Mauro Lucio Papinutto1 at Sapienza University, the notes have been taken during the second semester of academic year 2020/2021.
+  Characteristics of the notes  I took the notes using Notabilty on Ipad pro. The notes are hand taken, I hope I&amp;rsquo;ll will be able to convert them in LaTeX one day.</description>
+    </item>
+    
     <item>
       <title>EWI</title>
       <link>https://rikimachine99.github.io/university/lectures_notes/master/ewi/</link>
@@ -15,17 +26,6 @@
       <guid>https://rikimachine99.github.io/university/lectures_notes/master/ewi/</guid>
       <description>Electroweak Interactions Info about the course   Language : English
   The course on Electroweak interaction was held by professor Guido Martinelli1 at Sapienza University, the notes have been taken during the firt semester of academic year 2020/2021.
-  Characteristics of the notes  I took the notes using Notabilty on Ipad pro. The notes are hand taken, I hope I&amp;rsquo;ll will be able to convert them in LaTeX one day.</description>
-    </item>
-    
-    <item>
-      <title>RQM</title>
-      <link>https://rikimachine99.github.io/university/lectures_notes/master/qed/</link>
-      <pubDate>Sat, 07 Nov 2020 00:23:28 +0100</pubDate>
-      
-      <guid>https://rikimachine99.github.io/university/lectures_notes/master/qed/</guid>
-      <description>Relativistic quantum mechanics Info about the course   Language : English
-  The course on Relativistic Quantum Mechanic was held by professor Roberto Bonciani1 at Sapienza University, the notes have been taken during the firt semester of academic year 2020/2021.
   Characteristics of the notes  I took the notes using Notabilty on Ipad pro. The notes are hand taken, I hope I&amp;rsquo;ll will be able to convert them in LaTeX one day.</description>
     </item>
     
