@@ -25,7 +25,4 @@ draft: false
 
 [CMP Notes](https://drive.google.com/file/d/1_-LCna-4KWltqs278H072Ngcu1Mc-GeN/view?usp=sharing)
 
-
-
 [^1]: [Sergio Caprara website]()
-[^2]: This chapter has not been revised yet, I will do it in the future!
