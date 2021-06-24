@@ -21,7 +21,7 @@ draft: false
 - These notes are easily editable, if you spot some errors please let me know e-mailing me or via social networks, my contacts are in home/about. 
 
 
-## Lectures
+## Lectures Notes
 
 [QED Notes](https://drive.google.com/file/d/1gYz7UYYpF9qVVtAZWYIGhdrKqyISj0Vi/view?usp=sharing)
 
