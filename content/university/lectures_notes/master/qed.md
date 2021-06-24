@@ -23,7 +23,7 @@ draft: false
 
 ## Lectures
 
-[QED Notes](https://drive.google.com/file/d/1gYz7UYYpF9qVVtAZWYIGhdrKqyISj0Vi/view?usp=drivesdk)
+[QED Notes](https://drive.google.com/file/d/1gYz7UYYpF9qVVtAZWYIGhdrKqyISj0Vi/view?usp=sharing)
 
 ## Index:
 
