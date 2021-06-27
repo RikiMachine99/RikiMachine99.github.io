@@ -23,22 +23,21 @@ draft: false
 
 ## Lectures Notes
 
-[QED Notes](https://drive.google.com/file/d/1gYz7UYYpF9qVVtAZWYIGhdrKqyISj0Vi/view?usp=sharing)
-
-## Index:
-
-0. : Introduction
-1. : The Feynman Path integral
-2. : Toward a field theory
-3. : Perturbative Green's functions in $\lambda\phi^4$
-4. : Scattering theory
-5. : The electromagnetic field
-6. : Fermion fields
-7. : Equations of motions, symmetries and Ward Identity
-8. : Quantum Electrodynamics
-9. : Renormalization of QED
-10. : Applications of QED
-11. : General renormalization theory [^2]
+[QED Part 1/3](https://drive.google.com/file/d/1MiEhWNv-r_-zioDyCzssBU4baz8xAqMc/view?usp=sharing)
+    0. : Introduction
+    1. : The Feynman Path integral
+    2. : Toward a field theory
+    3. : Perturbative Green's functions in $\lambda\phi^4$
+    4. : Scattering theory
+[QED Part 2/3](https://drive.google.com/file/d/1H9RTN_pxiuz9rhEvQA3ZB8c29JqygJ37/view?usp=sharing)
+    5. : The electromagnetic field
+    6. : Fermion fields
+    7. : Equations of motions, symmetries and Ward Identity
+    8. : Quantum Electrodynamics
+[QED Part 3/3](https://drive.google.com/file/d/1fTFxzXxQXWzQRPsUN_OwZRgcOwOkbVmt/view?usp=sharing)
+    9. : Renormalization of QED
+    10. : Applications of QED
+    11. : General renormalization theory [^2]
 
 
 
