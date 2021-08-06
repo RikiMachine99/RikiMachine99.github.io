@@ -54,7 +54,7 @@ draft: false
     - Decays
     - Strong CP problem
     - Pion decay
-    - Scattering $e^+e^-\to f\bar{f}$
+    - Scattering   $e^+e^-\to f\bar{f}$
 
 
 [^1]: [Guido Martinelli Website](https://www.roma1.infn.it/~marti/index.html)
