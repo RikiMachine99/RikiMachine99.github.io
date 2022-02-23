@@ -1,0 +1,609 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8D7008DC27C68D30002D2584 /* rikimachine99_github_ioApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7008DB27C68D30002D2584 /* rikimachine99_github_ioApp.swift */; };
+		8D7008DE27C68D30002D2584 /* rikimachine99_github_ioDocument.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7008DD27C68D30002D2584 /* rikimachine99_github_ioDocument.swift */; };
+		8D7008E027C68D30002D2584 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7008DF27C68D30002D2584 /* ContentView.swift */; };
+		8D7008E227C68D32002D2584 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D7008E127C68D32002D2584 /* Assets.xcassets */; };
+		8D7008E527C68D32002D2584 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D7008E427C68D32002D2584 /* Preview Assets.xcassets */; };
+		8D7008F127C68D33002D2584 /* rikimachine99_github_ioTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7008F027C68D33002D2584 /* rikimachine99_github_ioTests.swift */; };
+		8D7008FB27C68D33002D2584 /* rikimachine99_github_ioUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7008FA27C68D33002D2584 /* rikimachine99_github_ioUITests.swift */; };
+		8D7008FD27C68D33002D2584 /* rikimachine99_github_ioUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7008FC27C68D33002D2584 /* rikimachine99_github_ioUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8D7008ED27C68D33002D2584 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8D7008D027C68D30002D2584 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8D7008D727C68D30002D2584;
+			remoteInfo = rikimachine99.github.io;
+		};
+		8D7008F727C68D33002D2584 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8D7008D027C68D30002D2584 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8D7008D727C68D30002D2584;
+			remoteInfo = rikimachine99.github.io;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		8D7008D827C68D30002D2584 /* rikimachine99.github.io.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rikimachine99.github.io.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D7008DB27C68D30002D2584 /* rikimachine99_github_ioApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rikimachine99_github_ioApp.swift; sourceTree = "<group>"; };
+		8D7008DD27C68D30002D2584 /* rikimachine99_github_ioDocument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rikimachine99_github_ioDocument.swift; sourceTree = "<group>"; };
+		8D7008DF27C68D30002D2584 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		8D7008E127C68D32002D2584 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8D7008E427C68D32002D2584 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8D7008E627C68D32002D2584 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D7008E727C68D32002D2584 /* rikimachine99_github_io.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = rikimachine99_github_io.entitlements; sourceTree = "<group>"; };
+		8D7008EC27C68D33002D2584 /* rikimachine99.github.ioTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rikimachine99.github.ioTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D7008F027C68D33002D2584 /* rikimachine99_github_ioTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rikimachine99_github_ioTests.swift; sourceTree = "<group>"; };
+		8D7008F627C68D33002D2584 /* rikimachine99.github.ioUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rikimachine99.github.ioUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D7008FA27C68D33002D2584 /* rikimachine99_github_ioUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rikimachine99_github_ioUITests.swift; sourceTree = "<group>"; };
+		8D7008FC27C68D33002D2584 /* rikimachine99_github_ioUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rikimachine99_github_ioUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D7008D527C68D30002D2584 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D7008E927C68D33002D2584 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D7008F327C68D33002D2584 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8D7008CF27C68D30002D2584 = {
+			isa = PBXGroup;
+			children = (
+				8D7008EF27C68D33002D2584 /* rikimachine99.github.ioTests */,
+				8D7008DA27C68D30002D2584 /* rikimachine99.github.io */,
+				8D7008D927C68D30002D2584 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8D7008D927C68D30002D2584 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D7008D827C68D30002D2584 /* rikimachine99.github.io.app */,
+				8D7008EC27C68D33002D2584 /* rikimachine99.github.ioTests.xctest */,
+				8D7008F627C68D33002D2584 /* rikimachine99.github.ioUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8D7008DA27C68D30002D2584 /* rikimachine99.github.io */ = {
+			isa = PBXGroup;
+			children = (
+				8D7008DB27C68D30002D2584 /* rikimachine99_github_ioApp.swift */,
+				8D7008DD27C68D30002D2584 /* rikimachine99_github_ioDocument.swift */,
+				8D7008DF27C68D30002D2584 /* ContentView.swift */,
+				8D7008E127C68D32002D2584 /* Assets.xcassets */,
+				8D7008E627C68D32002D2584 /* Info.plist */,
+				8D7008E727C68D32002D2584 /* rikimachine99_github_io.entitlements */,
+				8D7008E327C68D32002D2584 /* Preview Content */,
+			);
+			path = rikimachine99.github.io;
+			sourceTree = "<group>";
+		};
+		8D7008E327C68D32002D2584 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				8D7008E427C68D32002D2584 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8D7008EF27C68D33002D2584 /* rikimachine99.github.ioTests */ = {
+			isa = PBXGroup;
+			children = (
+				8D7008F927C68D33002D2584 /* rikimachine99.github.ioUITests */,
+				8D7008F027C68D33002D2584 /* rikimachine99_github_ioTests.swift */,
+			);
+			path = rikimachine99.github.ioTests;
+			sourceTree = "<group>";
+		};
+		8D7008F927C68D33002D2584 /* rikimachine99.github.ioUITests */ = {
+			isa = PBXGroup;
+			children = (
+				8D7008FA27C68D33002D2584 /* rikimachine99_github_ioUITests.swift */,
+				8D7008FC27C68D33002D2584 /* rikimachine99_github_ioUITestsLaunchTests.swift */,
+			);
+			path = rikimachine99.github.ioUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D7008D727C68D30002D2584 /* rikimachine99.github.io */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8D70090027C68D33002D2584 /* Build configuration list for PBXNativeTarget "rikimachine99.github.io" */;
+			buildPhases = (
+				8D7008D427C68D30002D2584 /* Sources */,
+				8D7008D527C68D30002D2584 /* Frameworks */,
+				8D7008D627C68D30002D2584 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = rikimachine99.github.io;
+			productName = rikimachine99.github.io;
+			productReference = 8D7008D827C68D30002D2584 /* rikimachine99.github.io.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8D7008EB27C68D33002D2584 /* rikimachine99.github.ioTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8D70090327C68D33002D2584 /* Build configuration list for PBXNativeTarget "rikimachine99.github.ioTests" */;
+			buildPhases = (
+				8D7008E827C68D33002D2584 /* Sources */,
+				8D7008E927C68D33002D2584 /* Frameworks */,
+				8D7008EA27C68D33002D2584 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8D7008EE27C68D33002D2584 /* PBXTargetDependency */,
+			);
+			name = rikimachine99.github.ioTests;
+			productName = rikimachine99.github.ioTests;
+			productReference = 8D7008EC27C68D33002D2584 /* rikimachine99.github.ioTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		8D7008F527C68D33002D2584 /* rikimachine99.github.ioUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8D70090627C68D33002D2584 /* Build configuration list for PBXNativeTarget "rikimachine99.github.ioUITests" */;
+			buildPhases = (
+				8D7008F227C68D33002D2584 /* Sources */,
+				8D7008F327C68D33002D2584 /* Frameworks */,
+				8D7008F427C68D33002D2584 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8D7008F827C68D33002D2584 /* PBXTargetDependency */,
+			);
+			name = rikimachine99.github.ioUITests;
+			productName = rikimachine99.github.ioUITests;
+			productReference = 8D7008F627C68D33002D2584 /* rikimachine99.github.ioUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8D7008D027C68D30002D2584 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1300;
+				LastUpgradeCheck = 1300;
+				TargetAttributes = {
+					8D7008D727C68D30002D2584 = {
+						CreatedOnToolsVersion = 13.0;
+					};
+					8D7008EB27C68D33002D2584 = {
+						CreatedOnToolsVersion = 13.0;
+						TestTargetID = 8D7008D727C68D30002D2584;
+					};
+					8D7008F527C68D33002D2584 = {
+						CreatedOnToolsVersion = 13.0;
+						TestTargetID = 8D7008D727C68D30002D2584;
+					};
+				};
+			};
+			buildConfigurationList = 8D7008D327C68D30002D2584 /* Build configuration list for PBXProject "rikimachine99.github.io" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8D7008CF27C68D30002D2584;
+			productRefGroup = 8D7008D927C68D30002D2584 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D7008D727C68D30002D2584 /* rikimachine99.github.io */,
+				8D7008EB27C68D33002D2584 /* rikimachine99.github.ioTests */,
+				8D7008F527C68D33002D2584 /* rikimachine99.github.ioUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D7008D627C68D30002D2584 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D7008E527C68D32002D2584 /* Preview Assets.xcassets in Resources */,
+				8D7008E227C68D32002D2584 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D7008EA27C68D33002D2584 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D7008F427C68D33002D2584 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D7008D427C68D30002D2584 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D7008DE27C68D30002D2584 /* rikimachine99_github_ioDocument.swift in Sources */,
+				8D7008DC27C68D30002D2584 /* rikimachine99_github_ioApp.swift in Sources */,
+				8D7008E027C68D30002D2584 /* ContentView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D7008E827C68D33002D2584 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D7008F127C68D33002D2584 /* rikimachine99_github_ioTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D7008F227C68D33002D2584 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D7008FD27C68D33002D2584 /* rikimachine99_github_ioUITestsLaunchTests.swift in Sources */,
+				8D7008FB27C68D33002D2584 /* rikimachine99_github_ioUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8D7008EE27C68D33002D2584 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8D7008D727C68D30002D2584 /* rikimachine99.github.io */;
+			targetProxy = 8D7008ED27C68D33002D2584 /* PBXContainerItemProxy */;
+		};
+		8D7008F827C68D33002D2584 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8D7008D727C68D30002D2584 /* rikimachine99.github.io */;
+			targetProxy = 8D7008F727C68D33002D2584 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		8D7008FE27C68D33002D2584 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8D7008FF27C68D33002D2584 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		8D70090127C68D33002D2584 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = rikimachine99.github.io/rikimachine99_github_io.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"rikimachine99.github.io/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = rikimachine99.github.io/Info.plist;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Riccardo-Marinelli.rikimachine99-github-io";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		8D70090227C68D33002D2584 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = rikimachine99.github.io/rikimachine99_github_io.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"rikimachine99.github.io/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = rikimachine99.github.io/Info.plist;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Riccardo-Marinelli.rikimachine99-github-io";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		8D70090427C68D33002D2584 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Riccardo-Marinelli.rikimachine99-github-ioTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rikimachine99.github.io.app/Contents/MacOS/rikimachine99.github.io";
+			};
+			name = Debug;
+		};
+		8D70090527C68D33002D2584 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Riccardo-Marinelli.rikimachine99-github-ioTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rikimachine99.github.io.app/Contents/MacOS/rikimachine99.github.io";
+			};
+			name = Release;
+		};
+		8D70090727C68D33002D2584 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Riccardo-Marinelli.rikimachine99-github-ioUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = rikimachine99.github.io;
+			};
+			name = Debug;
+		};
+		8D70090827C68D33002D2584 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Riccardo-Marinelli.rikimachine99-github-ioUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = rikimachine99.github.io;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8D7008D327C68D30002D2584 /* Build configuration list for PBXProject "rikimachine99.github.io" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8D7008FE27C68D33002D2584 /* Debug */,
+				8D7008FF27C68D33002D2584 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8D70090027C68D33002D2584 /* Build configuration list for PBXNativeTarget "rikimachine99.github.io" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8D70090127C68D33002D2584 /* Debug */,
+				8D70090227C68D33002D2584 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8D70090327C68D33002D2584 /* Build configuration list for PBXNativeTarget "rikimachine99.github.ioTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8D70090427C68D33002D2584 /* Debug */,
+				8D70090527C68D33002D2584 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8D70090627C68D33002D2584 /* Build configuration list for PBXNativeTarget "rikimachine99.github.ioUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8D70090727C68D33002D2584 /* Debug */,
+				8D70090827C68D33002D2584 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8D7008D027C68D30002D2584 /* Project object */;
+}

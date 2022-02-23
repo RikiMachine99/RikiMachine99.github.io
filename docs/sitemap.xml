@@ -1,103 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://rikimachine99.github.io/university/lectures_notes/</loc>
-    <lastmod>2022-01-07T00:09:43+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-02-23T00:16:46+01:00</lastmod>
+  </url><url>
     <loc>https://rikimachine99.github.io/university/lectures_notes/master/</loc>
-    <lastmod>2022-01-07T00:09:43+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-02-23T00:16:46+01:00</lastmod>
+  </url><url>
+    <loc>https://rikimachine99.github.io/</loc>
+    <lastmod>2022-02-23T00:16:46+01:00</lastmod>
+  </url><url>
+    <loc>https://rikimachine99.github.io/university/</loc>
+    <lastmod>2022-02-23T00:16:46+01:00</lastmod>
+  </url><url>
+    <loc>https://rikimachine99.github.io/university/lectures_notes/master/wismb/</loc>
+    <lastmod>2022-02-23T00:16:46+01:00</lastmod>
+  </url><url>
     <loc>https://rikimachine99.github.io/university/lectures_notes/master/qft/</loc>
     <lastmod>2022-01-07T00:09:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rikimachine99.github.io/</loc>
-    <lastmod>2022-01-07T00:09:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rikimachine99.github.io/university/</loc>
-    <lastmod>2022-01-07T00:09:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rikimachine99.github.io/university/lectures_notes/master/cmp/</loc>
     <lastmod>2021-06-07T00:09:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rikimachine99.github.io/university/lectures_notes/master/qed/</loc>
     <lastmod>2021-06-07T00:09:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rikimachine99.github.io/personal/poems/lannodiottobre/</loc>
     <lastmod>2020-11-18T21:30:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rikimachine99.github.io/personal/</loc>
     <lastmod>2020-11-18T21:30:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rikimachine99.github.io/personal/poems/</loc>
     <lastmod>2020-11-18T21:30:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rikimachine99.github.io/personal/poems/ditemirestaunsogno/</loc>
     <lastmod>2020-11-18T21:20:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rikimachine99.github.io/university/thesis_projects/</loc>
     <lastmod>2020-11-08T10:01:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rikimachine99.github.io/personal/music/</loc>
     <lastmod>2020-11-07T16:14:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rikimachine99.github.io/university/lectures_notes/bachelor/</loc>
     <lastmod>2020-11-07T00:23:28+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rikimachine99.github.io/university/lectures_notes/master/ewi/</loc>
     <lastmod>2020-11-07T00:23:28+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rikimachine99.github.io/university/lectures_notes/master/rqm/</loc>
     <lastmod>2020-11-07T00:23:28+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rikimachine99.github.io/university/lectures_notes/bachelor/sdm/</loc>
     <lastmod>2020-11-07T00:23:28+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rikimachine99.github.io/about/</loc>
     <lastmod>2020-11-06T23:48:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rikimachine99.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rikimachine99.github.io/tags/</loc>
   </url>
-  
 </urlset>

@@ -6,7 +6,18 @@
     <description>Recent content in Master on Riccardo Marinelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jan 2022 00:09:43 +0100</lastBuildDate><atom:link href="https://rikimachine99.github.io/university/lectures_notes/master/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Feb 2022 00:16:46 +0100</lastBuildDate><atom:link href="https://rikimachine99.github.io/university/lectures_notes/master/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WISMB</title>
+      <link>https://rikimachine99.github.io/university/lectures_notes/master/wismb/</link>
+      <pubDate>Wed, 23 Feb 2022 00:16:46 +0100</pubDate>
+      
+      <guid>https://rikimachine99.github.io/university/lectures_notes/master/wismb/</guid>
+      <description>Weak Interactions in the Standard Model and Beyond Info about the course   Language : English
+  The course on Weak Interactions was held by professors Marco Nardecchia and Daniele Barducci at Sapienza University, the notes have been taken during the first semester of academic year 2021/2022.
+  Characteristics of the notes  I took the notes using Notabilty on Ipad pro. The notes are hand taken, I hope I&amp;rsquo;ll will be able to convert them in LaTeX one day.</description>
+    </item>
+    
     <item>
       <title>QFT</title>
       <link>https://rikimachine99.github.io/university/lectures_notes/master/qft/</link>
