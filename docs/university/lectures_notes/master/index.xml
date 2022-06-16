@@ -6,7 +6,18 @@
     <description>Recent content in Master on Riccardo Marinelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Feb 2022 00:16:46 +0100</lastBuildDate><atom:link href="https://rikimachine99.github.io/university/lectures_notes/master/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2022 00:11:00 +0100</lastBuildDate><atom:link href="https://rikimachine99.github.io/university/lectures_notes/master/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SIF</title>
+      <link>https://rikimachine99.github.io/university/lectures_notes/master/sif/</link>
+      <pubDate>Thu, 16 Jun 2022 00:11:00 +0100</pubDate>
+      
+      <guid>https://rikimachine99.github.io/university/lectures_notes/master/sif/</guid>
+      <description>Simmetrie e interazioni fondamentali Info about the course   Language : Italian
+  The course on Symmetries and Fundamental Interactions was held by professor Antonio Davide Polosa at Sapienza University, the notes have been taken during the first semester of academic year 2020/2021.
+  Characteristics of the notes  I took the notes using Notabilty on Ipad pro. The notes are hand taken, I hope I&amp;rsquo;ll will be able to convert them in LaTeX one day.</description>
+    </item>
+    
     <item>
       <title>WISMB</title>
       <link>https://rikimachine99.github.io/university/lectures_notes/master/wismb/</link>
